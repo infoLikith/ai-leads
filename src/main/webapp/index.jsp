@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 style="color: Black;">Java Home Jenkins!</h2>
+<h2 style="color: grey;">Java Home Jenkins!</h2>
 </body>
 </html>
